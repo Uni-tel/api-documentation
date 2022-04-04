@@ -18,5 +18,6 @@
             <name>Casper Nibe</name>
             <uri>https://uni-tel.dk</uri>
         </author>
+        <category label="welcome" term="welcome"/>
     </entry>
 </feed>
