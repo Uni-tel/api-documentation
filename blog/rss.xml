@@ -7,7 +7,6 @@
         <lastBuildDate>Wed, 19 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <language>en</language>
         <item>
             <title><![CDATA[First Blog Post]]></title>
             <link>https://uni-tel.github.io/api-documentation/blog/first-blog-post</link>
@@ -15,7 +14,6 @@
             <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the uni-tel API Documentation site]]></description>
             <content:encoded><![CDATA[<p>Welcome to the uni-tel API Documentation site</p>]]></content:encoded>
-            <category>welcome</category>
         </item>
     </channel>
 </rss>
