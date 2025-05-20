@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_classic_typescript=self.webpackChunkdocusaurus_classic_typescript||[]).push([[620],{4642:s=>{s.exports=JSON.parse('{"tags":[{"label":"welcome","permalink":"/api-documentation/blog/tags/welcome","count":1}]}')}}]);
